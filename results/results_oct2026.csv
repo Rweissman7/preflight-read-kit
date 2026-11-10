@@ -15,7 +15,7 @@ PHerc0175A_t275_s003,patch,8.64,PASS,False,0.96,1.285,0.807,4.08,forward,0.36,pa
 0841_w00_shift5,test,9.366,BORDERLINE,False,0.904,0.954,0.918,11.39,forward,6.9,,2.0
 0841_w00_shift4,test,9.366,BORDERLINE,False,0.899,0.966,0.908,11.27,forward,7.23,,2.0
 PHerc0826_t268_s007,patch,9.362,PASS,False,0.89,1.035,0.791,4.36,forward,4.35,pass,0.0
-0500P2_1,known,9.362,FAIL (old rule A; BORDERLINE under v0.1.0 rule B),True,0.829,0.98,0.876,8.69,forward,9.18,,2.0
+0500P2_1,known,9.362,BORDERLINE,False,0.829,0.98,0.876,8.69,forward,9.18,,2.0
 0841_w00_shift9,test,9.366,BORDERLINE,False,0.828,0.967,0.989,12.27,forward,5.74,,1.5
 PHerc0306B_t275_s014,patch,8.64,BORDERLINE,False,0.815,0.983,0.788,1.92,forward,0.61,pass,0.0
 0800_225813,eligible,8.64,PASS,False,0.814,1.086,0.778,1.34,forward,3.29,,0.0
