@@ -1,0 +1,26 @@
+name,group,scan_um,verdict,read_anyway,readiness,score_avg,inside_window,biggest_good_cm2,direction,ratio_128,lynn,eye_rating_avg_of_2
+0139_w039,known,9.362,PASS,False,1.674,1.714,0.953,33.8,forward,0.38,,2.0
+PHerc0826B_t275_s041,patch,9.362,PASS,False,1.625,1.912,0.858,3.96,forward,2.07,pass,0.5
+PHerc0175A_t275_s009,patch,8.64,PASS,False,1.621,1.828,1.0,3.72,forward,0.53,pass,0.0
+PHerc0813_t269_s040,patch,9.362,PASS,False,1.374,1.507,0.847,1.79,forward,28.46,pass,0.0
+0009B_200236,known,8.64,PASS,False,1.327,1.748,0.891,8.83,forward,3.64,,0.5
+0800_220955,eligible,8.64,PASS,False,1.276,1.85,1.0,1.42,forward,0.69,,0.0
+0800_213516,eligible,8.64,PASS,False,1.106,1.62,0.994,1.62,forward,0.55,,0.0
+0800_220042,eligible,8.64,PASS,False,1.079,1.089,0.834,1.23,forward,2.2,,0.0
+0009B_125754,known,8.64,PASS,False,1.0,1.107,0.969,21.77,forward,3.14,,2.0
+0841_w00,known,9.366,PASS,False,1.0,1.097,0.932,11.57,forward,5.53,,2.0
+PHerc0306B_t275_s004,patch,8.64,PASS,False,0.988,1.064,1.0,1.91,forward,5.83,fail,0.0
+0009B_172639,known,8.64,PASS,False,0.968,1.424,0.825,10.61,forward,2.04,,0.5
+PHerc0175A_t275_s003,patch,8.64,PASS,False,0.96,1.285,0.807,4.08,forward,0.36,pass,0.5
+0841_w00_shift5,test,9.366,BORDERLINE,False,0.904,0.954,0.918,11.39,forward,6.9,,2.0
+0841_w00_shift4,test,9.366,BORDERLINE,False,0.899,0.966,0.908,11.27,forward,7.23,,2.0
+PHerc0826_t268_s007,patch,9.362,PASS,False,0.89,1.035,0.791,4.36,forward,4.35,pass,0.0
+0500P2_1,known,9.362,FAIL (old rule A; BORDERLINE under v0.1.0 rule B),True,0.829,0.98,0.876,8.69,forward,9.18,,2.0
+0841_w00_shift9,test,9.366,BORDERLINE,False,0.828,0.967,0.989,12.27,forward,5.74,,1.5
+PHerc0306B_t275_s014,patch,8.64,BORDERLINE,False,0.815,0.983,0.788,1.92,forward,0.61,pass,0.0
+0800_225813,eligible,8.64,PASS,False,0.814,1.086,0.778,1.34,forward,3.29,,0.0
+PHerc0813_t275_s055,patch,9.362,BORDERLINE,False,0.794,0.994,0.874,3.6,forward,3.8,fail,0.0
+0800_010146,eligible,8.64,PASS,False,0.792,1.431,1.0,0.31,forward,1.3,,0.0
+0800_222030,eligible,8.64,FAIL,False,0.726,0.851,0.982,2.22,forward,,,
+0009B_172804,known,8.64,FAIL,True,0.713,1.172,0.228,1.05,forward,1.87,,0.5
+PHerc0826_t268_s004,patch,9.362,FAIL,False,0.607,0.83,0.564,3.08,forward,,fail,
