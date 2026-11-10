@@ -9,7 +9,7 @@ Before you spend GPU time reading a surface, the kit checks whether it sits on t
 **Nothing here is built from scratch.** Every measurement comes from existing work (credits below). What the kit adds is putting those steps in order as one free run, with a verdict, a map of where the surface goes wrong, and reading only when it's worth it.
 
 ## Quick start (about an hour, no setup on your computer)
-1. Open the Kaggle notebook ([link]) and click **Copy & Edit**
+1. Open the [Kaggle notebook](https://www.kaggle.com/code/theancientdataset/preflight) and click **Copy & Edit**
 2. In the right panel: Accelerator **GPU T4**, **Internet on** (Kaggle may ask you to verify your phone once), Persistence "Files only"
 3. Run Cells 1, 2 and 3, then the "Your surface" cell as it is. It reads PHerc0841 w00, which has known letters: you should see PASS and letters in the forward map
 4. To check your own surfaces, edit only the "Your surface" cell (`add_segment`, `add_volume` or `add_mesh`)
